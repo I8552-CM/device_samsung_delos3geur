@@ -34,7 +34,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/samsung/msm7627a-common/msm7627aCommon.mk)
 
 # Set those variables here to overwrite the inherited values.
-PRODUCT_NAME := cm_delos3geur
+PRODUCT_NAME := lineage_delos3geur
 PRODUCT_DEVICE := delos3geur
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := SAMSUNG

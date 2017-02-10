@@ -15,5 +15,5 @@
 #
 
 # Inherit device configuration
-$(call inherit-product, device/samsung/delos3geur/cm_delos3geur.mk)
+$(call inherit-product, device/samsung/delos3geur/lineage_delos3geur.mk)
 $(call inherit-product, device/samsung/delos3geur/ota.mk)
